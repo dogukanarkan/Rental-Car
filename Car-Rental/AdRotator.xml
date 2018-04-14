@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+
+  <Ad>
+    <ImageUrl>~/Images/Cars/1.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>1</AlternateText>
+    <Keyword></Keyword>
+    <Impressions>50</Impressions>
+    <Height>610</Height>
+    <Width>1100</Width>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/Images/Cars/2.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>2</AlternateText>
+    <Keyword></Keyword>
+    <Impressions>50</Impressions>
+    <Height>610</Height>
+    <Width>1100</Width>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/Images/Cars/3.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>3</AlternateText>
+    <Keyword></Keyword>
+    <Impressions>50</Impressions>
+    <Height>610</Height>
+    <Width>1100</Width>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/Images/Cars/4.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>4</AlternateText>
+    <Keyword></Keyword>
+    <Impressions>50</Impressions>
+    <Height>610</Height>
+    <Width>1100</Width>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/Images/Cars/5.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>5</AlternateText>
+    <Keyword></Keyword>
+    <Impressions>50</Impressions>
+    <Height>610</Height>
+    <Width>1100</Width>
+  </Ad>
+
+</Advertisements>
